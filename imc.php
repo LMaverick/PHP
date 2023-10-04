@@ -4,7 +4,7 @@
     <?php
     // Variáveis para armazenar peso e altura (valores de exemplo)
     $peso = 70; // Peso em quilogramas
-    $altura = 1.75; // Altura em metros
+    $altura = 1.73; // Altura em metros
 
     // Calcular o IMC (Índice de Massa Corporal)
     $imc = $peso / ($altura * $altura);
